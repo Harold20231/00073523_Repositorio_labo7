@@ -4,7 +4,7 @@ Harold Arturo Escobar López 00073523 seccion 1
 ##  Pruebas en Postman
 
 1 Inicio de sesión – Generación de Token
- Archivo: '1.png'
+ Archivo: `1.png`
 
 Ruta: 'POST http://localhost:5000/signin'
 Body (JSON)
@@ -15,7 +15,8 @@ Body (JSON)
   }
   
 2 Inicio de sesión
-  Archivo: '2.png'
+
+  Archivo: `2.png`
 
 1. ¿Cuál es la diferencia entre autenticación y autorización?
 
